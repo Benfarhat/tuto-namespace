@@ -3,7 +3,7 @@ Nous allons utiliser ces commandes seulement pour aider au développement d'une 
 
 Lancer votre serveur comme suit:
 
-    $ php -S localhost:8000'''
+    $ php -S localhost:8000
 
 Pour permettre un accès à distance vous devez fait un appel sans le localhost qui représente l'adresse ip 127.0.0.1 mais en mettant une adresse spéciale voulant dire de n'importe ou:
 
